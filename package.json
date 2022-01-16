@@ -1,0 +1,9 @@
+{
+  "name": "k-means",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "latest",
+    "express": "latest",
+    "node-kmeans": "latest"
+  }
+}
